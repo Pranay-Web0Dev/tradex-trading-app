@@ -3,7 +3,7 @@ import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 
 const Stats = () => {
   return (
-    <div className='container mt-32 mx-auto flex justify-start items-center w-10/12' >
+    <div className='container  mx-auto flex justify-start items-center w-10/12' >
 
       <div className="left-section w-5/12 pl-16 ">
 

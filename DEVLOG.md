@@ -20,3 +20,10 @@ This log tracks my day-by-day progress while building **TradeX** – a full-stac
 - Pushed updates to GitHub and shared video preview 🎥
 
 ---
+###🟢 Day 3 – Routing & Component Reusability (June 16, 2025)
+
+-Installed React Router DOM and added routes for all landing pages
+-Made each section (home, about, pricing, product, etc.) accessible by URL
+-Created a custom 404 page for invalid routes
+-Built the About and Product pages
+-Optimized the Product section using reusable components with props instead of duplicating code

@@ -4,7 +4,7 @@ import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 
 const Eduction = () => {
   return (
-    <div className='container mt-32 flex justify-center items-center mb-20'>
+    <div className='container mt-32 flex justify-center items-center '>
 
       <div className="flex justify-around   w-10/12">
 

@@ -3,7 +3,7 @@ import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 
 const Pricing = () => {
   return (
-    <div className='container mt-32 mx-auto flex justify-start items-center w-10/12 '>
+    <div className='container  mx-auto flex justify-start items-center w-10/12 '>
       <div className="left-section w-5/12 pl-16 ">
         <h1 className='text-2xl font-semibold mb-8'>Unbeatable Pricing</h1>
         <p className='mb-2.5'>we pioneered the concept of discount broking and price transperency in India. Flat fees and no hidden charges.</p>

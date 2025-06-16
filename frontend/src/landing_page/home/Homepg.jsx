@@ -11,14 +11,19 @@ import Pricing from './Pricing'
 const Homepg = () => {
     return (
         <div>
-            <Navbar />
+            
             <Hero />
+            <div className="breakpoint sticky  p-0 w-[100%] bg-gray-300 h-0.5 my-20"></div>
             <Awards />
+            <div className="breakpoint sticky  p-0 w-[100%] bg-gray-300 h-0.5 my-20"></div>
             <Stats />
+            <div className="breakpoint sticky  p-0 w-[100%] bg-gray-300 h-0.5 my-20"></div>
             <Pricing />
+            <div className="breakpoint sticky  p-0 w-[100%] bg-gray-300 h-0.5 my-20"></div>
             <Eduction />
+            <div className="breakpoint sticky  p-0 w-[100%] bg-gray-300 h-0.5 my-20"></div>
             <OpenAccount />
-            <Footer />
+            
         </div>
     )
 }

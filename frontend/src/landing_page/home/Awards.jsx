@@ -3,7 +3,7 @@ import React from 'react'
 
 const Awards = () => {
   return (
-    <div className='container flex justify-center items-center mb-20'>
+    <div className='container flex justify-center items-center'>
 
       <div className="flex justify-around  w-10/12">
 
@@ -36,7 +36,6 @@ const Awards = () => {
 
 
       </div>
-
     </div>
   )
 }
