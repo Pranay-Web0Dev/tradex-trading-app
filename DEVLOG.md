@@ -27,3 +27,10 @@ This log tracks my day-by-day progress while building **TradeX** – a full-stac
 -Created a custom 404 page for invalid routes
 -Built the About and Product pages
 -Optimized the Product section using reusable components with props instead of duplicating code
+
+### 🟢 Day 4 – Support Page & Reusability Improvements (June 21, 2025)
+- Resumed development after resolving Wi-Fi router issues
+- Built the Support page with structured sections
+- Used reusable list components with props to prevent duplication
+- Made the page fully responsive across devices
+- Committed and pushed changes to GitHub 💻
