@@ -34,3 +34,12 @@ This log tracks my day-by-day progress while building **TradeX** – a full-stac
 - Used reusable list components with props to prevent duplication
 - Made the page fully responsive across devices
 - Committed and pushed changes to GitHub 💻
+
+### 🟢 Day 5 – Dashboard UI & Nested Routing (June 24, 2025)
+- Started building the dashboard interface
+- Created a separate `dashboard` folder in the root for better organization
+- Implemented a layout with sidebar and navbar using Flowbite and Material UI
+- Used nested routing to render right-side content dynamically
+- Updated `main.jsx` with wildcard path to support child routes
+- Built and styled the Dashboard Home and Orders components
+
