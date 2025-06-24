@@ -28,6 +28,7 @@ This log tracks my day-by-day progress while building **TradeX** – a full-stac
 -Built the About and Product pages
 -Optimized the Product section using reusable components with props instead of duplicating code
 
+---
 ### 🟢 Day 4 – Support Page & Reusability Improvements (June 21, 2025)
 - Resumed development after resolving Wi-Fi router issues
 - Built the Support page with structured sections
@@ -35,6 +36,7 @@ This log tracks my day-by-day progress while building **TradeX** – a full-stac
 - Made the page fully responsive across devices
 - Committed and pushed changes to GitHub 💻
 
+---
 ### 🟢 Day 5 – Dashboard UI & Nested Routing (June 24, 2025)
 - Started building the dashboard interface
 - Created a separate `dashboard` folder in the root for better organization
