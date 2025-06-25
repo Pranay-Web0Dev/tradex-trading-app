@@ -45,3 +45,12 @@ This log tracks my day-by-day progress while building **TradeX** – a full-stac
 - Updated `main.jsx` with wildcard path to support child routes
 - Built and styled the Dashboard Home and Orders components
 
+---
+### 🟢 Day 6 – Navigation Functionality & Holdings Page (June 25, 2025)
+- Shifted focus to adding interactivity and functionality inside the dashboard
+- Used `useLocation` in the navbar to highlight the selected tab based on current route
+- Avoided `useState` for tab highlighting to prevent loss of state on page refresh
+- Developed the Holdings page UI and populated it with dummy stock data
+- Continued building components with reusable props and functional structure
+- Pushed today's update to GitHub 🚀
+
