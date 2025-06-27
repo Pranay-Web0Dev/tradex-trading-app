@@ -7,7 +7,7 @@ import Apps from './apps/Apps'
 import Funds from './funds/Funds'
 import Holdings from './holdings/Holdings'
 import Positions from './positions/Positions'
-
+import Watchlist from "./watchlist/Watchlist"
 import NotFound from './NotFound'
 
 const Content = () => {
@@ -20,7 +20,7 @@ const Content = () => {
         <p className='text-gray-600'>Search eg.infy, bse, nifty fut weekly, gold mcx</p>
         <p className='text-gray-400'>9/50</p>
       </div>
-      <div className="bottom border-t-2 border-gray-200  h-[77vh]"> dfh</div>
+      <div className="bottom border-t-2 border-gray-200  h-[77vh]"> <Watchlist/> </div>
       <div className="pageNo border-t-2 border-gray-200">
         <span className='p-2 border-x-2 border-gray-200'>1</span>
         <span className='p-2 border-x-2 border-gray-200'>2</span>

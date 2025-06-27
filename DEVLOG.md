@@ -54,3 +54,12 @@ This log tracks my day-by-day progress while building **TradeX** – a full-stac
 - Continued building components with reusable props and functional structure
 - Pushed today's update to GitHub 🚀
 
+---
+### 🟢 Day 7 – Final UI Components: Positions & Watchlist (June 27, 2025)
+- Built the Positions component with styled layout
+- Finalized the Watchlist UI with hover transitions and icon-based interactivity
+- Watchlist now displays Buy/Sell/Chart/More icons on hover
+- Wrapped up the complete dashboard UI
+- Preparing to shift into backend development starting tomorrow 🚀
+
+
